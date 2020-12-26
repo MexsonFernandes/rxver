@@ -11,11 +11,15 @@ A new versioning system based  on the timespan of the project going.
 
 This section includes the build created in that year in increment format. eg. In 2020, we will have 2020.0.0 as the start version and 2020.1.0 as the next build. For coming year 2021 we will have 2021.0.1 as the first version.
 
-## Maturity Level Code
+## Code Maturity Level 
 
 1. Neonate
     
     The start phase of any software.
+    
+2. Sprog
+
+    The evolving phase where base features are ready and complete.
 
 ## Example
 

@@ -13,11 +13,11 @@ This section includes the build created in that year in increment format. eg. In
 
 ## Code Maturity Level 
 
-1. Neonate
+1. `Neonate`
     
     The start phase of any software.
     
-2. Sprog
+2. `Sprog`
 
     The evolving phase where base features are ready and complete.
 
@@ -31,4 +31,4 @@ This section includes the build created in that year in increment format. eg. In
 
     2021 as release year, and a first build with second release year.
 
-Note: Both have `Neonate` as they are still evolving.
+Note: Both have `Neonate` as they are still being  developed heavily.

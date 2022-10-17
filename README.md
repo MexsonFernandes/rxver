@@ -4,7 +4,7 @@ A new versioning system based  on the timespan of the project going.
 ## Default Format
 
 ```
-[YYYY].[BUILD].[PUBLISH_INCREMENT_YEAR] [MATURITY_LEVEL_CODE]
+[YYYY].[PUBLISH_INCREMENT_YEAR].[BUILD] [MATURITY_LEVEL_CODE]
 ```
 
 ## Build
@@ -27,8 +27,8 @@ This section includes the build created in that year in increment format. eg. In
 
     This release was created in 2020, a first build of the year.
     
-2. `2021.0.1 Neonate`
+2. `2021.1.0 Neonate`
 
-    2021 as release year, and a first build with second release year.
+    2021 as current release year, and a first build and second year.
 
 Note: Both have `Neonate` as they are still being  developed heavily.
